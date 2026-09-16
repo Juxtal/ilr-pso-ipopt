@@ -9,7 +9,8 @@ dependencies = [
     "pyomo>=6.5",
     "mealpy>=3.0",
 ]
-
+[project.optional-dependencies]
+dev = ["pytest"]
 [build-system]
 requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"

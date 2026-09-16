@@ -1,4 +1,6 @@
 # ilr-pso-ipopt
+This package generalizes the algorithm from M. T. Tillmann, M. Ibañez, K. Dittmer, J. Lu, et al. “Modeling and Optimising Complex Enzymatic Reaction
+Processes: A Practical Guide for Biotechnologists and Bioprocess Engineers.” . On top of the original method, it adds ILR to solve the allocation problem.
 
 Extracted and generalized from an enzyme-allocation optimization algorithm
 originally developed for the author's master's thesis (a fixed-total
